@@ -26,7 +26,7 @@ int main(int argc, char *argv[], char *env[])
 }
 
 /**
- * handle_ctrl_c - print the prompt in a new line
+ * handle_ctrl - print the prompt in a new line
  * when the signal SIGINT (ctrl + c) is send to the program
  * @UNUSED: option of the prototype
  */
