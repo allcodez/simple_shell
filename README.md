@@ -1,2 +1,1 @@
-# simple_shell
-Alx Simple Shell
+ALx Simple_shell team task
